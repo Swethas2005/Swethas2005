@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'am a Full-Stack developer with a flair for frontend development. 🚀 A quick learner adept at adapting to emerging technologies. 💡 Proficient in creating responsive and visually appealing user interfaces . <br>- 📚 I'm currently learning c<br>- ⚡ In my free time I work on newWebsites<br>- 📫 How to reach me swethas15092005@gmail.com</p>
+<p align="left">I'am a Full-Stack developer with a flair for frontend development. 🚀 A quick learner adept at adapting to emerging technologies. 💡 Proficient in creating responsive and visually appealing user interfaces . <br>- 📚 I'm currently learning Full-Stack Web Developer<br>- ⚡ In my free time I work on newWebsites<br>- 📫 How to reach me swethas15092005@gmail.com</p>
 
 ###
 
